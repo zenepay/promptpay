@@ -1,5 +1,6 @@
 # PromptPay QR Code Generator - PHP
-
+This package forked from farzai/promptpay https://github.com/farzai/promptpay-qr-php
+This intends to make it upgradeable for Laravel 11 and Laravel 12 that requires dependencies upgrade
 
 ![Example](assets/example.png)
 
@@ -65,7 +66,7 @@ $ promptpay 0988888888 100
 You can install the package via composer:
 
 ```bash
-composer require farzai/promptpay
+composer require zenepay/promptpay
 ```
 
 ## Usage
