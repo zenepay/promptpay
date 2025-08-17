@@ -23,7 +23,7 @@ You can generate a QR code for receiving payments through PromptPay, which is a 
 You can install the package globally via composer:
 
 ```bash
-composer global require farzai/promptpay
+composer global require zenepay/promptpay
 ```
 Make sure to place Composer's system-wide vendor bin directory in your $PATH so the promptpay executable can be located by your system. 
 This directory exists in different locations based on your operating system;
